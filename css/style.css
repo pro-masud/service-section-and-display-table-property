@@ -61,6 +61,9 @@ input:focus,textarea:focus,button:focus{
 
 .single-service-item{
     text-align: center;
+    color: #333;
+    min-height: 240px;
+    display: block;
     margin-bottom: 30px;
 }
 
@@ -83,6 +86,7 @@ input:focus,textarea:focus,button:focus{
 .service-icon i{
     font-size: 70px;
     margin: 20px 0;
+    color: #FD9727;
 }
 
 .service-details h4{
